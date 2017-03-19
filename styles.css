@@ -24,7 +24,7 @@ body {
   padding: 0;
   color: black;
   font-family: 'Source Sans Pro', sans-serif;
-  background: #00edc5;
+  /*background: #00edc5;*/
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -310,9 +310,8 @@ img.full-width {
 }
 
 svg.full-width {
-
-  width: 150%;
-  max-width: 80vw;
+  width: 250%;
+  max-width: 90vw;
 }
 
 .callout .caption {
