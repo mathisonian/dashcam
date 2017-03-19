@@ -2,7 +2,7 @@
 
 [Header 
   title:"Seattle PD’s Dashcam Problem" 
-  subtitle:"Visualizing 27 million frames dropped over four years" 
+  subtitle:"Visualizing 27 million frames of video lost over four years"
   author:"Matthew Conlen" 
   authorLink:"https://twitter.com/mathisonian" /]
 
@@ -10,10 +10,11 @@
 
 
 The Seattle Police Department’s in-car video systems has been fraught
-with issues since its inception. In 2011 [link href:"http://www.seattletimes.com/seattle-news/man-sues-says-spd-conceals-dash-cam-videos/" text:"a lawsuit revealed" /] that 
-the department had lost 14,000 videos in 2008,
+with issues since its inception. In 2011 
+[link href:"http://www.seattletimes.com/seattle-news/man-sues-says-spd-conceals-dash-cam-videos/" text:"a lawsuit revealed" /] 
+that the department had lost 14,000 videos in 2008,
 almost a fifth of the videos that were in the system at the time. In 2014 [link href:"http://spdblotter.seattle.gov/2014/04/04/spd-examining-technical-issue-with-in-car-video-system/" text:"the department reported" /] 
-that an upgrade to the system on April 23, 2013 was frames of video to be lost. Most recently
+that an upgrade to the system on April 23, 2013 was causing frames of video to be lost. Most recently
 the department announced that 2,283 videos recorded in July 2016 [link text:"were lost" href:"http://spdblotter.seattle.gov/2016/08/30/police-and-seattle-it-working-to-address-july-dashcam-data-loss/" /].
 
 [Callout text:"634.8" caption:"Hours of footage lost due to dropped frames" /]
@@ -22,40 +23,63 @@ Even though the system was piloted starting in 2002 and [link text:"fully deploy
 the video data wasn’t available on the City of Seattle’s open data portal [link text:"until 2015" href:"http://komonews.com/news/local/four-years-later-spd-dashcam-library-now-online"/]. 
 The portal now contains metadata about every video recorded, and a list of the times when frames were lost by the system. 
 
-##### Hours of footage lost each month due to dropped frames
+#### Hours of footage lost each month due to dropped frames
 
-[SVG src:"svg/overview-1.svg" /]
+[AnnotatedSvg 
+  ref:"overview" 
+  src:"svg/overview-annotations.svg" 
+  showAnnotations:`refs.overview.position.top < 300` /]
 
-The chart above shows how many hours of video are lost each month due to frames being dropped by the system. 
 The department was aware of the glitch in January of 2014, but didn't report it publicly until that April, 
 when it seemed things were under control. 
 
+[Callout text:"65" caption:"Officers missing a block of video 5 minutes or longer due to the frame drop glitch" /]
+
 Unfortunately, the problem wasn't completely solved. There was another spike in dropped frames in September 2014, and 
-the problem still continues to this day. Although the problem is less severe now, several hours of video are 
+the problem still continues to this day. The problem is less severe now, but several hours of video are 
 still being lost every month according to the most recent available data.
 
-##### Hours of footage lost each month due to dropped frames since 2015
+#### Hours of footage lost each month due to dropped frames since 2015
 
-[SVG src:"svg/overview-recent.svg" /]
+[AnnotatedSvg 
+  ref:"overviewRecent" 
+  src:"svg/overview-recent.svg" 
+  showAnnotations:`refs.overviewRecent.position.top < 200` /]
 
-Most occurances of frames being lost are relatively short, about 16.5 seconds on average. However, 
-loss of longer chunks of video continue to be common. 
+It seemed as though the overall technical situation was slowly improving until 
+the department's announcement of another major loss of video in August 2016.
+
+Most occurances of frames being lost are relatively short, about 16.5 seconds on average. Looking 
+at the frequency of frame drops occurances of different lengths reveals some patterns. 
+
+#### Frame drops of different lengths
+
+[img className:"full-width" src:"images/density.png" /]
+
+Blocks of video less than a minute long are lost nearly every day. Losing video clips 1-5 minutes isn't quite as 
+common, but still frequent. There was a large influx of losses of this length in the summer of 2016, it's 
+unclear if this is related to the 2,000 some videos that were lost around that same time.
+The frequency of clips dropped 5-30 minutes long seems to be relatively unchanged since 2014. Losing more 
+than 30 minutes or contiguous footage is rare. 
+
+This situation highlights the importance of maintaining transparency of government data.
+Had the 2011 lawsuit not occured, the public may never have been made aware of these 
+issues. The dashcam videos [link text:"can serve as important evidence" href:"http://www.thestranger.com/slog/archives/2015/01/28/seattle-police-jailed-elderly-man-for-walking-in-seattle-while-black" /] 
+in court cases.
+
+#### Minutes of footage lost per officer per month
+
+[AnnotatedSvg 
+  ref:"perOfficer" 
+  src:"svg/per-officer.svg" 
+  showAnnotations:`refs.perOfficer.position.top < 100` /]
 
 
-##### Frequency of frame drops
-
-[callout text:"65" caption:"Officers missing a block of video 5 minutes or longer" /]
-
-[img src:"images/density.png" /]
+The data shows that the vast majority of officers lose, if any, at most a few minutes of 
+footage due to dropped frames over the course of a month. 
 
 
-Lorem ipsum dolor sit amet, pericula torquatos sit in. Cum dicta corrumpit ei, ne eros lorem hendrerit usu. Munere voluptaria ad vis, nihil primis comprehensam an vix. Eu nec labore consulatu molestiae, nibh clita tation eu sit. Id lucilius convenire est, at mea suas agam detracto. Ea temporibus consectetuer vix, nonumy tincidunt reprimique ex mea.
-
-[br/]
-[i]
-This document was created with [link href:"https://idyll-lang.github.io/idyll/" text:"Idyll" /], a new markup language for
-creating interactive documents. See the [link text:"markup used to create this page" href:"https://github.com/mathisonian/seattle-pd-dashcams/blob/master/index.idl"/].
-[/i]
+[idyllFooter /]
 
 [/section]
 

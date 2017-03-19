@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="581px" height="429px" viewBox="0 0 581 429" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #E9E9D4;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>vega (5)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vega-(5)" transform="translate(36.000000, -42.000000)">
+            <g id="Group">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <rect id="Rectangle-path" x="32" y="55" width="500" height="350"></rect>
+                                <g transform="translate(5.000000, 55.000000)">
+                                    <g>
+                                        <g transform="translate(27.000000, 0.000000)" id="Shape" stroke-opacity="0.15" stroke="#CCCCCC">
+                                            <path d="M0,0 L0,350"></path>
+                                            <path d="M128,0 L128,350"></path>
+                                            <path d="M255,0 L255,350"></path>
+                                            <path d="M383,0 L383,350"></path>
+                                        </g>
+                                        <g transform="translate(0.000000, 358.000000)" font-size="13" font-family="FiraMono-Regular, Fira Mono" fill="#000000" font-weight="normal">
+                                            <text id="Jan-2013">
+                                                <tspan x="0.5" y="12">Jan 2013</tspan>
+                                            </text>
+                                            <text id="Jan-2014">
+                                                <tspan x="128.5" y="12">Jan 2014</tspan>
+                                            </text>
+                                            <text id="Jan-2015">
+                                                <tspan x="255.5" y="12">Jan 2015</tspan>
+                                            </text>
+                                            <text id="Jan-2016">
+                                                <tspan x="383.5" y="12">Jan 2016</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(27.000000, 350.000000)" id="Shape" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 500.5 0.5 500.5 0.5"></polyline>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <rect id="Rectangle-path" x="32" y="55" width="-0.1" height="-0.1"></rect>
+                                        <g transform="translate(32.000000, 55.000000)" id="Shape" stroke-opacity="0.15" stroke="#CCCCCC">
+                                            <path d="M0,350 L500,350"></path>
+                                            <path d="M0,280 L500,280"></path>
+                                            <path d="M0,210 L500,210"></path>
+                                            <path d="M0,140 L500,140"></path>
+                                            <path d="M0,70 L500,70"></path>
+                                            <path d="M0,0 L500,0"></path>
+                                        </g>
+                                        <g transform="translate(32.000000, 55.000000)"></g>
+                                        <g transform="translate(0.000000, 46.000000)" font-size="13" fill="#000000" font-weight="normal">
+                                            <text id="0" font-family="Helvetica">
+                                                <tspan x="14" y="362.5">0</tspan>
+                                            </text>
+                                            <text id="20" font-family="FiraMono-Regular, Fira Mono">
+                                                <tspan x="7" y="292.5">20</tspan>
+                                            </text>
+                                            <text id="40" font-family="FiraMono-Regular, Fira Mono">
+                                                <tspan x="7" y="222.5">40</tspan>
+                                            </text>
+                                            <text id="60" font-family="FiraMono-Regular, Fira Mono">
+                                                <tspan x="7" y="152.5">60</tspan>
+                                            </text>
+                                            <text id="80" font-family="FiraMono-Regular, Fira Mono">
+                                                <tspan x="7" y="82.5">80</tspan>
+                                            </text>
+                                            <text id="100" font-family="FiraMono-Regular, Fira Mono">
+                                                <tspan x="0" y="12.5">100</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(32.000000, 55.000000)" id="Shape" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 0.5 350.5 0.5 350.5"></polyline>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(32.000000, 79.000000)" id="Shape" stroke-width="2" stroke="#8900FF">
+                                    <polyline points="500 320 489 321 479 318 468 312 457 309 446 306 436 315 425 317 415 320 404 312 394 316 383 314 372 307 362 308 351 309 340 313 329 314 319 308 308 312 297 311 287 310 276 303 266 293 255 308 244 310 234 312 223 273 213 164 202 325 191 325 180 316 170 318 159 319 148 153 138 37 128 0 117 156 106 176 95 201 85 188 74 194 63 246 53 312 42 325 31 325 21 325 11 326 0 325"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="annotations" transform="translate(101.000000, 19.000000)">
+            <g id="Group-2" transform="translate(0.000000, 323.000000)">
+                <text id="Upgrade-causes-glitc" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="107" y="74">Upgrade causes glitch</tspan>
+                </text>
+                <circle id="Oval" stroke="#000000" cx="15" cy="15" r="15"></circle>
+                <polyline id="Path-2" stroke="#000000" points="23.3597384 27.7489618 54.0445057 70.7974759 98.893977 70.7974759"></polyline>
+            </g>
+            <g id="Group-2-Copy" transform="translate(83.000000, 0.000000)">
+                <text id="Framedrop-problem-di" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="81" y="14">Framedrop problem</tspan>
+                    <tspan x="81" y="32">discovered</tspan>
+                </text>
+                <circle id="Oval" stroke="#000000" cx="15" cy="18" r="15"></circle>
+                <path d="M30.2948655,18 L73.5260307,18" id="Path-2" stroke="#000000"></path>
+            </g>
+            <g id="Group-2-Copy-2" transform="translate(109.000000, 234.000000)">
+                <text id="Issue-announced-publ" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="94" y="14">Issue announced</tspan>
+                    <tspan x="94" y="32">publicly</tspan>
+                </text>
+                <circle id="Oval" stroke="#000000" cx="15" cy="99" r="15"></circle>
+                <polyline id="Path-2" stroke="#000000" points="22.0034908 85.7530186 47.30193 19.0458816 90.5199396 19.0458816"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

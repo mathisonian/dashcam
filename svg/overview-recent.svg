@@ -1,1 +1,113 @@
-<svg class="marks" width="553" height="406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(46,12)"><g class="mark-group"><g transform="translate(0,0)"><rect class="background" width="1" height="1" style="fill: none;"></rect><g class="mark-group root"><g transform="translate(0,0)"><rect class="background" width="500" height="350" style="fill: none;"></rect><g class="mark-group"><g transform="translate(0,350)"><rect class="background" width="0" height="0" style="pointer-events: none; fill: none;"></rect><g class="mark-rule" style="pointer-events: none;"><line transform="translate(0.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(64.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(129.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(195.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(261.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(326.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(391.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(456.5,-350)" x2="0" y2="350" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line></g><g class="mark-rule" style="pointer-events: none;"><line transform="translate(0.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(64.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(129.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(195.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(261.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(326.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(391.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(456.5,0)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line></g><g class="mark-rule" style="pointer-events: none;"></g><g class="mark-text"><text text-anchor="middle" transform="translate(0.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Jan 2015</text><text text-anchor="middle" transform="translate(64.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Apr 2015</text><text text-anchor="middle" transform="translate(129.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Jul 2015</text><text text-anchor="middle" transform="translate(195.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Oct 2015</text><text text-anchor="middle" transform="translate(261.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Jan 2016</text><text text-anchor="middle" transform="translate(326.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Apr 2016</text><text text-anchor="middle" transform="translate(391.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Jul 2016</text><text text-anchor="middle" transform="translate(456.5,20)" style="font: 11px sans-serif; fill: #000; opacity: 1;">Oct 2016</text></g><g class="mark-path" style="pointer-events: none;"><path transform="translate(0.5,0.5)" d="M0,0V0H500V0" style="fill: none; stroke: #000; stroke-width: 1;"></path></g><g class="mark-text"><text text-anchor="middle" transform="translate(250,36)" style="font: bold 11px sans-serif; fill: #000;"> </text></g></g></g><g class="mark-group"><g transform="translate(0,0)"><rect class="background" width="0" height="0" style="pointer-events: none; fill: none;"></rect><g class="mark-rule" style="pointer-events: none;"><line transform="translate(0,350.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(0,280.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(0,210.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(0,140.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(0,70.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line><line transform="translate(0,0.5)" x2="500" y2="0" style="fill: none; stroke: #ccc; stroke-opacity: 0.15; opacity: 1;"></line></g><g class="mark-rule" style="pointer-events: none;"><line transform="translate(0,350.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(0,280.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(0,210.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(0,140.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(0,70.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line><line transform="translate(0,0.5)" x2="0" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line></g><g class="mark-rule" style="pointer-events: none;"></g><g class="mark-text"><text text-anchor="end" transform="translate(-10,353.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">0</text><text text-anchor="end" transform="translate(-10,283.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">2</text><text text-anchor="end" transform="translate(-10,213.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">4</text><text text-anchor="end" transform="translate(-10,143.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">6</text><text text-anchor="end" transform="translate(-10,73.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">8</text><text text-anchor="end" transform="translate(-10,3.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">10</text></g><g class="mark-path" style="pointer-events: none;"><path transform="translate(0.5,0.5)" d="M0,0H0V350H0" style="fill: none; stroke: #000; stroke-width: 1;"></path></g><g class="mark-text"><text text-anchor="middle" transform="translate(-34,175) rotate(-90) translate(0,3)" style="font: bold 11px sans-serif; fill: #000;">Hours lost each month</text></g></g></g><g class="mark-line marks"><path d="M500,287L479,299L456,271L435,214L413,183L391,151L369,244L347,259L326,289L304,215L283,254L261,228L239,159L217,170L195,184L174,221L151,226L129,167L108,207L86,205L64,186L42,123L22,25L0,171" style="fill: none; stroke: #4682b4; stroke-width: 2;"></path></g></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 542 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>vega (6)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vega-(6)" transform="translate(-3.000000, -3.000000)">
+            <g id="Group">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g transform="translate(17.000000, 7.000000)">
+                                    <g>
+                                        <g transform="translate(27.000000, 0.000000)" id="Shape" stroke="#FFFFFF">
+                                            <path d="M0,0 L0,350"></path>
+                                            <path d="M64,0 L64,350"></path>
+                                            <path d="M129,0 L129,350"></path>
+                                            <path d="M195,0 L195,350"></path>
+                                            <path d="M261,0 L261,350"></path>
+                                            <path d="M326,0 L326,350"></path>
+                                            <path d="M391,0 L391,350"></path>
+                                            <path d="M456,0 L456,350"></path>
+                                        </g>
+                                        <g transform="translate(0.000000, 360.000000)" font-size="10.5" font-family="FiraMono-Regular, Fira Mono" fill="#000000" font-weight="normal">
+                                            <text id="Jan-2015">
+                                                <tspan x="0.5" y="10">Jan 2015</tspan>
+                                            </text>
+                                            <text id="Apr-2015">
+                                                <tspan x="65" y="10">Apr 2015</tspan>
+                                            </text>
+                                            <text id="Jul-2015">
+                                                <tspan x="131.5" y="10">Jul 2015</tspan>
+                                            </text>
+                                            <text id="Oct-2015">
+                                                <tspan x="196" y="10">Oct 2015</tspan>
+                                            </text>
+                                            <text id="Jan-2016">
+                                                <tspan x="261.5" y="10">Jan 2016</tspan>
+                                            </text>
+                                            <text id="Apr-2016">
+                                                <tspan x="327" y="10">Apr 2016</tspan>
+                                            </text>
+                                            <text id="Jul-2016">
+                                                <tspan x="393.5" y="10">Jul 2016</tspan>
+                                            </text>
+                                            <text id="Oct-2016">
+                                                <tspan x="457" y="10">Oct 2016</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(27.000000, 350.000000)" id="Shape" stroke-width="2" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 500.5 0.5 500.5 0.5"></polyline>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g transform="translate(44.000000, 7.000000)" id="Shape" stroke="#FFFFFF">
+                                            <path d="M0,280 L500,280"></path>
+                                            <path d="M0,210 L500,210"></path>
+                                            <path d="M0,140 L500,140"></path>
+                                            <path d="M0,70 L500,70"></path>
+                                            <path d="M0,0 L500,0"></path>
+                                        </g>
+                                        <g transform="translate(23.000000, 0.000000)" font-size="10.5" font-family="FiraMono-Regular, Fira Mono" fill="#000000" font-weight="normal">
+                                            <text id="0">
+                                                <tspan x="7" y="360.5">0</tspan>
+                                            </text>
+                                            <text id="2">
+                                                <tspan x="7" y="290.5">2</tspan>
+                                            </text>
+                                            <text id="4">
+                                                <tspan x="7" y="220.5">4</tspan>
+                                            </text>
+                                            <text id="6">
+                                                <tspan x="7" y="150.5">6</tspan>
+                                            </text>
+                                            <text id="8">
+                                                <tspan x="7" y="80.5">8</tspan>
+                                            </text>
+                                            <text id="10">
+                                                <tspan x="0" y="10.5">10</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(44.000000, 7.000000)" id="Shape" stroke-width="2" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 0.5 350.5 0.5 350.5"></polyline>
+                                        </g>
+                                        <g transform="translate(0.000000, 116.000000)" id="Hours-lost-each-month" font-size="13" fill="#000000" font-family="Helvetica" font-weight="normal">
+                                            <text transform="translate(8.000000, 66.000000) rotate(-90.000000) translate(-8.000000, -66.000000) ">
+                                                <tspan x="-57.5" y="71">Hours lost each month</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(44.000000, 32.000000)" id="Shape" stroke-width="2" stroke="#8A01FF">
+                                    <polyline points="500 262 479 274 456 246 435 189 413 158 391 126 369 219 347 234 326 264 304 190 283 229 261 203 239 134 217 145 195 159 174 196 151 201 129 142 108 182 86 180 64 161 42 98 22 0 0 146"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="annotations" transform="translate(240.000000, 96.000000)">
+                <text id="2,000-videos-lost-du" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="19.856" y="14">2,283  videos  lost </tspan>
+                    <tspan x="0.326" y="32">due to another glitch</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#000000" stroke-width="2" points="203.181849 261.777732 203.181849 99.9329483 131.76568 19.6585984"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
