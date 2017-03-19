@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 616 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>vega (4)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#EAE8D5" x="0" y="0" width="616" height="447"></rect>
+        <g id="vega-(4)" transform="translate(13.000000, 11.000000)">
+            <g id="Group">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g transform="translate(40.000000, 44.000000)">
+                                    <g>
+                                        <g transform="translate(20.000000, 0.000000)" id="Shape" stroke="#FFFFFF">
+                                            <path d="M0,0 L0,350"></path>
+                                            <path d="M125,0 L125,350"></path>
+                                            <path d="M250,0 L250,350"></path>
+                                            <path d="M375,0 L375,350"></path>
+                                        </g>
+                                        <g transform="translate(0.000000, 359.000000)" font-size="10" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                            <text id="Jan-2013">
+                                                <tspan x="0.5" y="10">Jan 2013</tspan>
+                                            </text>
+                                            <text id="Jan-2014">
+                                                <tspan x="125.5" y="10">Jan 2014</tspan>
+                                            </text>
+                                            <text id="Jan-2015">
+                                                <tspan x="250.5" y="10">Jan 2015</tspan>
+                                            </text>
+                                            <text id="Jan-2016">
+                                                <tspan x="375.5" y="10">Jan 2016</tspan>
+                                            </text>
+                                            <text id="Jan-2017">
+                                                <tspan x="500.5" y="10">Jan 2017</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(20.000000, 350.000000)" id="Shape" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 500.5 0.5 500.5 0.5"></polyline>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g transform="translate(60.000000, 94.000000)" id="Shape" stroke="#FFFFFF">
+                                            <path d="M0,200 L500,200"></path>
+                                            <path d="M0,100 L500,100"></path>
+                                            <path d="M0,0 L500,0"></path>
+                                        </g>
+                                        <g transform="translate(32.000000, 86.000000)" font-size="10" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                            <text id="0">
+                                                <tspan x="16.4384766" y="306.5">0</tspan>
+                                            </text>
+                                            <text id="100k">
+                                                <tspan x="0" y="210.5">100k</tspan>
+                                            </text>
+                                            <text id="200k">
+                                                <tspan x="0" y="110.5">200k</tspan>
+                                            </text>
+                                            <text id="300k">
+                                                <tspan x="0" y="10.5">300k</tspan>
+                                            </text>
+                                        </g>
+                                        <g transform="translate(60.000000, 44.000000)" id="Shape" stroke="#000000">
+                                            <polyline points="0.5 0.5 0.5 0.5 0.5 350.5 0.5 350.5"></polyline>
+                                        </g>
+                                        <g transform="translate(6.500000, 206.000000) rotate(-360.000000) translate(-6.500000, -206.000000) translate(-0.000000, 132.000000)" id="Seconds-of-video-los" font-size="11" fill="#000000" font-family="Helvetica" font-weight="normal">
+                                            <text transform="translate(6.500000, 73.750000) rotate(-90.000000) translate(-6.500000, -73.750000) ">
+                                                <tspan x="-67.25" y="77.25">Seconds of video lost</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-Copy" transform="translate(195.000000, 13.500000) rotate(-270.000000) translate(-195.000000, -13.500000) translate(181.500000, -176.500000)" font-size="22" fill="#000000" font-family="Helvetica" font-weight="normal">
+                                            <text id="Seconds-of-video-los" transform="translate(13.059880, 190.118032) rotate(-90.000000) translate(-13.059880, -190.118032) ">
+                                                <tspan x="-176.508255" y="198.118032">Seconds of video lost each month</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Group-2" transform="translate(217.000000, 167.000000)">
+                                    <path d="M0.5,227.014172 L0.5,6.5" id="Line" stroke="#6F00FB" stroke-linecap="square"></path>
+                                    <text id="First-glitch-reporte" font-family="Helvetica" font-size="14" font-weight="normal" fill="#6600E7">
+                                        <tspan x="6" y="18">First glitch</tspan>
+                                        <tspan x="6" y="35">reported by SPD</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-2" transform="translate(421.000000, 167.000000)">
+                                    <path d="M83.5,227.014172 L83.5,142.820163" id="Line" stroke="#6F00FB" stroke-linecap="square" stroke-dasharray="1"></path>
+                                    <text id="2,000-videos-reporte" font-family="Helvetica" font-size="14" font-weight="normal" fill="#6600E7">
+                                        <tspan x="0" y="154">2,000 videos </tspan>
+                                        <tspan x="0" y="171">reported lost</tspan>
+                                    </text>
+                                </g>
+                                <g transform="translate(60.000000, 58.000000)" id="Shape" stroke-width="2" stroke="#13B77C">
+                                    <polyline points="500 335 489 330 479 331 469 328 458 322 448 319 437 316 427 325 416 327 406 330 395 322 385 326 375 323 364 316 354 318 343 319 333 323 322 323 312 317 301 321 291 321 281 319 270 313 260 303 250 318 239 319 229 322 218 281 208 169 197 334 187 335 177 326 166 327 156 329 145 158 136 39 125 0 114 161 104 182 93 208 83 194 73 200 62 254 52 321 41 335 31 335 20 335 11 336 0 335"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

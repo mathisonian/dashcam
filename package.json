@@ -1,0 +1,21 @@
+{
+  "name": "consumer-complaints",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "idyll index.idl --css styles.css",
+    "build": "mkdir build; cp styles.css build/; cp -r images build/; cp -r svg build/; idyll index.idl --build | uglifyjs > build/index.js",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "csv-parser": "^1.11.0",
+    "d3": "^3.0.0",
+    "idyll": "^1.0.0",
+    "react-inlinesvg": "^0.5.5",
+    "react-vega-lite": "0.0.1",
+    "reactable": "^0.14.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "uglify-js": "^2.8.12"
+  }
+}

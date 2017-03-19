@@ -1,0 +1,347 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Fira+Mono:400,500,700|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i');
+
+/*
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Fira Mono', monospace;
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #fff;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin: 40px 0 20px 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.15rem;
+  line-height: 1.75rem;
+}
+
+.article {
+  max-width: 90vw;
+  margin: 0 auto;
+  background: white;
+  padding: 60px 0;
+  margin-bottom: 60px;
+}
+
+
+.section {
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.article-header {
+  width: 600px;
+  margin-left: 10vw;
+}
+
+.hed {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: 100;
+  margin: 20px 0 20px;
+}
+
+.dek {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  display: block;
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+  color: #13b77c;
+}
+
+.byline p {
+  font-family: 'Fira Mono', monospace;
+  font-size: .95rem;
+  line-height: 1rem;
+  color: black;
+}
+
+a, a:visited {
+  color: #350bd5;
+}
+
+a:hover {
+  color: #290b9d;
+}
+
+a tspan {
+  fill: #350bd5;
+  text-decoration: underline;
+}
+
+
+text  {
+  font-family: 'Fira Mono', monospace;
+  /*transform: translateX(-5px);*/
+}
+/*
+tspan {
+  font-family: 'Fira Mono', monospace;
+  transform: translateX(-5px);
+}*/
+
+.byline a {
+  color: black;
+}
+
+.article-body {
+  width: 600px;
+  margin-left: 10vw;
+  margin-top: 45px;
+}
+
+pre {
+  margin: 25px 0;
+  width: 100%;
+}
+
+pre code {
+  background: #F2F3F2;
+  color: black;
+  padding: 20px 15px;
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+}
+code {
+  background: #F2F3F2;
+  color: black;
+  padding: 1px 5px;
+}
+
+.inset {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  cursor: pointer;
+}
+
+thead {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  padding: 10px;
+  color: black;
+  border-bottom: solid 2px black;
+  vertical-align: bottom;
+}
+
+table {
+  margin: 0;
+  margin-top: 30px;
+  padding: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 45px;
+  width: 100%;
+  text-align: left;
+}
+
+td {
+  padding: 10px 10px;
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  vertical-align: top;
+  max-width: 75%;
+}
+th {
+  padding: 10px;
+  font-size: 14px;
+}
+
+
+.responses th:nth-child(3),
+th:nth-child(3), th:nth-child(4){
+  text-align: right;
+}
+.responses td:nth-child(3),
+.wrong-debt td:nth-child(2),
+.wrong-debt th:nth-child(2),
+.paid-debt th:nth-child(2),
+.paid-debt td:nth-child(2) {
+  text-align: right;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+tr.selected {
+  background-color: #ccc;
+}
+td.number {
+  font-family: 'Fira Mono', monospace;
+  text-align: right;
+}
+
+.quotes {
+  position: fixed;
+  top: 20px;
+  bottom: 0;
+  right: 0;
+  width: calc(80vw - 600px);
+  display: flex;
+  align-self: center;
+  align-items: center;
+}
+.quote {
+  width: 100%;
+  /*text-align: center;*/
+  /*text-transform: uppercase;*/
+  font-family: 'Archivo Black', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin: 0 auto;
+  height: 250px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+.quote .content {
+  position: absolute;
+}
+
+.aside .quote {
+  height: auto;
+  display: block;
+}
+
+.aside .quote .content {
+  height: auto;
+  display: block;
+  position: static;
+}
+
+.quote .attribution {
+  font-family: 'Fira Mono', monospace;
+  font-size: .85rem;
+  line-height: 1rem;
+  color: #888;
+  margin: 20px 0 0 0;
+  font-weight: normal;
+}
+
+.quote .company {
+  display: block;
+  color: red;
+}
+
+caption {
+  width: 100%;
+  font-style: italic;
+  font-size: 12px;
+  display: block;
+  color: #888;
+}
+
+.float.right {
+  padding-left: 10px;
+}
+.relative {
+  position: relative;
+}
+.aside {
+  position: absolute;
+  width: 300px;
+  right: calc((10vw + 600px + 150px) / -2);
+}
+
+.pie {
+  position: relative;
+  top: 45px;
+}
+
+
+.callout {
+  width: 100%;
+  max-width: 250px;
+  font-family: 'Archivo Black', Helvetica, Arial, sans-serif;
+  /*font-weight: bold;*/
+  font-size: 2.4rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.callout .caption {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+  display: block;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  color: #000;
+}
+
+@media all and (max-width: 1200px) {
+  /* put your css styles in here */
+  .desktop {
+    display: none;
+  }
+  .relative {
+    position: static;
+  }
+  .aside {
+    position: static;
+    width: 100%;
+    right: 0;
+  }
+
+  .aside .quote {
+    height: 250px;
+    display: flex;
+  }
+
+  .aside .quote .content {
+    height: auto;
+    position: absolute;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .article-header {
+    width: 90vw;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .article-body {
+    width: 90vw;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .pie {
+    display: none;
+  }
+  .callout {
+    margin: 45px auto;
+  }
+}
