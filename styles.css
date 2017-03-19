@@ -105,6 +105,10 @@ text  {
 svg {
   /*background: #E9E9D4;*/
 }
+
+svg.perOfficer {
+  width: 200%;
+}
 /*
 tspan {
   font-family: 'Fira Mono', monospace;
@@ -296,12 +300,19 @@ caption {
   text-align: center;
 }
 
+svg.full-width,
 img.full-width {
   width: auto;
   max-width: 100vw;
   margin-left: -10vw;
   margin-top: 60px;
   margin-bottom: 30px;
+}
+
+svg.full-width {
+
+  width: 200%;
+  max-width: 80vw;
 }
 
 .callout .caption {
