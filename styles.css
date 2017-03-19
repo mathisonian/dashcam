@@ -312,6 +312,7 @@ img.full-width {
 svg.full-width {
   width: 250%;
   max-width: 90vw;
+  margin-top: 30px;
 }
 
 .callout .caption {
