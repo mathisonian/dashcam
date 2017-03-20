@@ -9,7 +9,7 @@
 [Section className:"article-body"]
 
 
-The Seattle Police Department’s in-car video systems has been fraught
+The Seattle Police Department’s in-car video system has been fraught
 with issues since its inception. In 2011 
 [link href:"http://www.seattletimes.com/seattle-news/man-sues-says-spd-conceals-dash-cam-videos/" text:"a lawsuit revealed" /] 
 that the department had lost 14,000 videos in 2008,
@@ -30,12 +30,12 @@ The portal now contains metadata about every video recorded, and a list of the t
   src:"svg/overview-annotations.svg" 
   showAnnotations:`refs.overview.position.top < 300` /]
 
-The department was aware of the glitch in January of 2014, but didn't report it publicly until that April, 
+The department was aware of the glitch in January of 2014, but didn’t report it publicly until that April, 
 when it seemed things were under control. 
 
 [Callout text:"65" caption:"Officers missing a block of video 5 minutes or longer due to the frame drop glitch" /]
 
-Unfortunately, the problem wasn't completely solved. There was another spike in dropped frames in September 2014, and 
+Unfortunately, the problem wasn’t completely solved. There was another spike in dropped frames in September 2014, and 
 the problem still continues to this day. The problem is less severe now, but several hours of video are 
 still being lost every month according to the most recent available data.
 
@@ -47,37 +47,50 @@ still being lost every month according to the most recent available data.
   showAnnotations:`refs.overviewRecent.position.top < 200` /]
 
 It seemed as though the overall technical situation was slowly improving until 
-the department's announcement of another major loss of video in August 2016.
+the department’s announcement of another major loss of video in August 2016.
 
-Most occurances of frames being lost are relatively short, about 16.5 seconds on average. Looking 
-at the frequency of frame drops occurances of different lengths reveals some patterns. 
+Most occurrences of frames being lost are relatively short, about 16.5 seconds on average. Looking 
+at the frequency of frame drops occurrences of different lengths reveals some patterns. 
 
-#### Frame drops of different lengths
+[desktop]
+[h4]Frame drops of different lengths[/h4]
 
 [img className:"full-width" src:"images/density.png" /]
+[/desktop]
 
-Blocks of video less than a minute long are lost nearly every day. Losing video clips 1-5 minutes isn't quite as 
-common, but still frequent. There was a large influx of losses of this length in the summer of 2016, it's 
+Blocks of video less than a minute long are lost nearly every day. Losing video clips 1-5 minutes isn’t quite as 
+common, but still frequent. There was a large influx of losses of this length in the summer of 2016 — it’s 
 unclear if this is related to the 2,000 some videos that were lost around that same time.
 The frequency of clips dropped 5-30 minutes long seems to be relatively unchanged since 2014. Losing more 
 than 30 minutes or contiguous footage is rare. 
 
 This situation highlights the importance of maintaining transparency of government data.
-Had the 2011 lawsuit not occured, the public may never have been made aware of these 
+Had the 2011 lawsuit not occurred, the public may never have been made aware of these 
 issues. The dashcam videos [link text:"can serve as important evidence" href:"http://www.thestranger.com/slog/archives/2015/01/28/seattle-police-jailed-elderly-man-for-walking-in-seattle-while-black" /] 
 in court cases.
 
-#### Minutes of footage lost per officer per month
+[desktop]
+[h4]Minutes of footage lost per officer per month[/h4]
 
 [AnnotatedSvg 
   ref:"perOfficer" 
   src:"svg/per-officer.svg" 
   showAnnotations:`refs.perOfficer.position.top < 100` /]
-
+[/desktop]
 
 The data shows that the vast majority of officers lose, if any, at most a few minutes of 
-footage due to dropped frames over the course of a month. 
+footage due to dropped frames over the course of a month. However, even in 2016, every month 
+some officers still were losing up to an hour of footage each month. This doesn’t 
+do much to point towards the problem being solved. 
 
+In [link text:"an uninspiring interview with Crosscut" href:"http://crosscut.com/2016/07/missing-dash-cam-video-raises-questions-about-police-oversight/" /], 
+Mary Perry, Seattle Police Department Director of Transparency and Privacy,
+stated that the problem may never be completely fixed, and that 
+"When we can’t get to zero, then the best thing we can do is inform."
+
+The department is now gearing up to equip their officers with body cameras, going 
+forward with a plan that [link text:"has already been critized by the ACLU" href:"http://www.thestranger.com/slog/2017/02/27/24894988/over-aclu-objections-seattle-moves-forward-with-police-body-cameras" /].
+One hopes that the body cam rollout does not face similar technology and transparency issues.
 
 [idyllFooter /]
 
