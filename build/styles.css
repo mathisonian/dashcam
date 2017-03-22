@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black|Fira+Mono:400,500,700|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i');
 
+@font-face {
+  font-family: EskelleDisplayStencil;
+  src: url("/fonts/EskelleDisplay/EskelleDisplayStencil.otf");
+  font-weight: normal;
+}
+
+
 /*
 font-family: 'Source Sans Pro', sans-serif;
 font-family: 'Archivo Black', sans-serif;
@@ -57,7 +64,7 @@ p {
 }
 
 .hed {
-  font-family: 'Archivo Black', sans-serif;
+  font-family: 'EskelleDisplayStencil', sans-serif;
   font-size: 3rem;
   line-height: 3rem;
   font-weight: 100;
